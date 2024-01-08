@@ -12,6 +12,12 @@
     font-family: 'Times New Roman', serif;
 }
 
+.link {
+    color: blue;
+    font-size: 24px;
+    text-decoration: underline;
+}
+
 body {
     background-color: black;
     color: white; /* Set text color to white for better visibility on black background */
